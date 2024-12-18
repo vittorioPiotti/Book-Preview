@@ -16,6 +16,7 @@
 
 ## ▋Preview
 
+<img src="/github/socialpreview.gif"/>
 
 ## ▋Licenze
 
