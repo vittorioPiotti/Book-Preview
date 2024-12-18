@@ -1,6 +1,6 @@
 # Book-Preview
 
-3D book preview with downloadable PDF
+Website of 3D book preview with downloadable PDF
 
 
 <img src="/github/socialpreview.png"/>
