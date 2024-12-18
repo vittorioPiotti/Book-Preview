@@ -1,4 +1,13 @@
+
+/*
+  Book Preview v1.0.0 (https://github.com/vittorioPiotti/Book-Preview/releases/tag/1.0.0)
+  Copyright 2024 Vittorio Piotti
+  Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Book-Preview/blob/main/LICENSE.md)
+*/
+
 body
+
+
 {
     margin: 0;
     display: flex;
