@@ -28,7 +28,7 @@
 
 **Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
 
-**Version** [v1.0.0]()
+**Version** [v1.0.0](https://github.com/vittorioPiotti/Book-Preview/releases/tag/1.0.0)
 
 **License** [GPL-3.0](https://github.com/vittorioPiotti/Book-Preview/blob/main/LICENSE.md)
 
